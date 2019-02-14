@@ -37,7 +37,6 @@
           - /opt/appdata/{{pgrole}}/sync
           - /:/source
           - '/mnt:/mnt'
-          - '/opt:/opt'
           - /opt/appdata/{{pgrole}}/config:/config
           - /opt/appdata/{{pgrole}}/backups:/backups
 
